@@ -2,9 +2,6 @@
 
 Multi-agent AI system for stock recommendations using **LangGraph** (agent orchestration), **Bright Data MCP** (real-time web scraping), and **FastAPI** (API server).
 
-Inspired by Keerti Purswani's YouTube tutorial:  
-https://www.youtube.com/watch?v=NF2aRqIlYNE (from ~8:00 onwards – code, API keys, MCP setup, agents).
-
 ## Features
 - Supervisor agent delegates tasks to 4 specialized agents  
 - Stock selection (e.g., promising Nifty 50/large cap names)  
